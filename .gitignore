@@ -4,3 +4,5 @@ data/*
 */log.txt
 */graphs
 */checkpoints
+models/*
+*/data/*
